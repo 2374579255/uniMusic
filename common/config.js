@@ -1,0 +1,1 @@
+export const baseUrl="http://api.404.kim";
